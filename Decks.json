@@ -1,21 +1,22 @@
 [
   {
-    "title": "Demo Deck",
-    "id": "803de30c-9587-4bb4-8499-243eba2bd549",
-    "game": "Palworld Official Card Game",
-    "format": ["Classic"],
+    "title": "C2E2 Demo Deck",
+    "id": "8a2df0fc-08d4-4702-b02f-3f8e9bd8de24",
     "cardCount": 60,
-    "createdAt": "2026-04-01T00:00:00.000Z",
-    "lastModifiedAt": "2026-04-01T00:00:00.000Z",
+    "createdAt": "2026-04-01T07:30:19.633Z",
+    "lastModifiedAt": "2026-04-01T07:31:30.557Z",
+    "game": "Palworld Official Card Game",
+    "format": [
+      "Classic"
+    ],
     "deckList": {
       "categoriesOrder": [
         "Pal",
+        "Event",
         "Gear",
         "Structure",
-        "Event",
         "Souls"
       ],
-      "Sideboard": [],
       "Pal": [
         {
           "count": 4,
@@ -54,6 +55,12 @@
           "id": "demo-foxparks"
         }
       ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "demo-reckless_charge"
+        }
+      ],
       "Gear": [
         {
           "count": 4,
@@ -61,7 +68,7 @@
         },
         {
           "count": 2,
-          "id": "demo-pump_action_shotgun"
+          "id": "demo-pump-action_shotgun"
         }
       ],
       "Structure": [
@@ -72,12 +79,6 @@
         {
           "count": 4,
           "id": "demo-primitive_furnace"
-        }
-      ],
-      "Event": [
-        {
-          "count": 2,
-          "id": "demo-reckless_charge"
         }
       ],
       "Souls": [
