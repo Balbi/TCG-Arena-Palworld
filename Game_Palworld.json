@@ -159,7 +159,7 @@
             "displayedTitle": "Base",
             "noQuickActions": false,
             "enterTapped": false,
-            "enterSpun": true,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
