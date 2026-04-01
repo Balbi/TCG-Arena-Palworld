@@ -5,7 +5,7 @@
     "backgrounds": [
       "https://balbi.github.io/TCG-Arena-Palworld/images/backgrounds/background-1.jpg"
     ],
-    "decksUrl": "https://balbi.github.io/TCG-Arena-Palworld/Decks.json"
+    "decksUrl": "https://balbi.github.io/TCG-Arena-Palworld/PalworldDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -55,7 +55,7 @@
     "Classic": {
       "mulligan": {
         "info": "",
-        "startingHandSize": "6",
+        "startingHandSize": "5",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
@@ -173,12 +173,12 @@
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
-            "isHorizontalAllowed": true,
+            "isHorizontalAllowed": false,
             "displayedTitle": "Soul Area",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
-            "isGroupForbidden": false,
+            "isGroupForbidden": true,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
@@ -192,7 +192,7 @@
             "isGroupForbidden": true,
             "displayedTitle": "Pile",
             "opponentAlignment": false,
-            "noAutoPayTo": true,
+            "noAutoPayTo": false,
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
