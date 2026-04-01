@@ -35,17 +35,18 @@
       "Standard": {
         "reversedLegality": true,
         "general": {
-          "min": 50,
-          "max": 50,
+          "min": 60,
+          "max": 60,
           "maxPerCard": 4
         },
-        "categories": {
-          "Souls": {
+        "categories": [
+          {
+            "category": "Souls",
             "min": 10,
             "max": 10,
             "maxPerCard": 10
           }
-        }
+        ]
       }
     }
   },
