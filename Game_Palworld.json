@@ -72,9 +72,9 @@
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
+          "Souls",
           "Mana",
-          "Base",
-          "Souls"
+          "Base"
         ],
         "layout": {
           "direction": "column",
@@ -85,18 +85,21 @@
               "style": false,
               "content": [
                 {
-                  "section": "Base",
+                  "direction": "row",
                   "style": {
-                    "height": "49.5vh",
+                    "height": "24.5vh",
                     "margin": "0.25vh"
-                  }
+                  },
+                  "content": [
+                    {
+                      "section": "Base"
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
                   "direction": "row",
-                  "style": {
-                    "height": "50vh",
-                    "margin": "0.25vh"
-                  },
+                  "style": false,
                   "content": [
                     {
                       "section": "Souls"
