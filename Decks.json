@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Demo Deck",
+    "id": "803de30c-9587-4bb4-8499-243eba2bd549",
+    "game": "Palworld Official Card Game",
+    "format": "Classic",
+    "cardCount": 50,
+    "createdAt": "2026-04-01T00:00:00.000Z",
+    "lastModifiedAt": "2026-04-01T00:00:00.000Z",
+    "deckList": {
+      "categoriesOrder": [
+        "Pal",
+        "Gear",
+        "Structure",
+        "Event",
+        "Souls"
+      ],
+      "Sideboard": [],
+      "Pal": [
+        {
+          "count": 4,
+          "id": "demo-relaxaurus"
+        },
+        {
+          "count": 4,
+          "id": "demo-pengullet"
+        },
+        {
+          "count": 4,
+          "id": "demo-jormuntide_ignis"
+        },
+        {
+          "count": 4,
+          "id": "demo-chillet"
+        },
+        {
+          "count": 4,
+          "id": "demo-cattiva"
+        },
+        {
+          "count": 4,
+          "id": "demo-lamball"
+        },
+        {
+          "count": 4,
+          "id": "demo-grizzbolt"
+        },
+        {
+          "count": 4,
+          "id": "demo-chikipi"
+        },
+        {
+          "count": 4,
+          "id": "demo-foxparks"
+        }
+      ],
+      "Gear": [
+        {
+          "count": 4,
+          "id": "demo-single-shot_rifle"
+        },
+        {
+          "count": 2,
+          "id": "demo-pump_action_shotgun"
+        }
+      ],
+      "Structure": [
+        {
+          "count": 2,
+          "id": "demo-mounted_machine_gun"
+        },
+        {
+          "count": 4,
+          "id": "demo-primitive_furnace"
+        }
+      ],
+      "Event": [
+        {
+          "count": 2,
+          "id": "demo-reckless_charge"
+        }
+      ],
+      "Souls": [
+        {
+          "count": 10,
+          "id": "demo-soul"
+        }
+      ]
+    }
+  }
+]
