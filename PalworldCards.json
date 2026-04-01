@@ -1,0 +1,290 @@
+{
+  "demo-": {
+    "id": "",
+    "face": {
+      "front": {
+        "name": "",
+        "type": "",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "",
+    "type": "",
+    "cost": 0,
+    "Color": [],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-relaxaurus": {
+    "id": "demo-relaxaurus",
+    "face": {
+      "front": {
+        "name": "Relaxaurus",
+        "type": "Pal",
+        "cost": 7,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relaxaurus",
+    "type": "Pal",
+    "cost": 7,
+    "Color": ["Blue"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-pengullet": {
+    "id": "demo-pengullet",
+    "face": {
+      "front": {
+        "name": "Pengullet",
+        "type": "Pal",
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pengullet",
+    "type": "Pal",
+    "cost": 3,
+    "Color": ["Blue"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-reckless_charge": {
+    "id": "demo-reckless_charge",
+    "face": {
+      "front": {
+        "name": "Reckless Charge",
+        "type": "Event",
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Reckless Charge",
+    "type": "Event",
+    "cost": 1,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-jormuntide_ignis": {
+    "id": "demo-jormuntide_ignis",
+    "face": {
+      "front": {
+        "name": "Jormuntide Ignis",
+        "type": "Pal",
+        "cost": 8,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jormuntide Ignis",
+    "type": "Pal",
+    "cost": 8,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-chillet": {
+    "id": "demo-chillet",
+    "face": {
+      "front": {
+        "name": "Chillet",
+        "type": "Pal",
+        "cost": 5,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chillet",
+    "type": "Pal",
+    "cost": 5,
+    "Color": ["Blue"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-single-shot_rifle": {
+    "id": "demo-single-shot_rifle",
+    "face": {
+      "front": {
+        "name": "Single-Shot Rifle",
+        "type": "Gear",
+        "cost": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Single-Shot Rifle",
+    "type": "Gear",
+    "cost": 4,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-mounted_machine_gun": {
+    "id": "demo-mounted_machine_gun",
+    "face": {
+      "front": {
+        "name": "Mounted Machine Gun",
+        "type": "Structure",
+        "cost": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mounted Machine Gun",
+    "type": "Structure",
+    "cost": 4,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-pump-action_shotgun": {
+    "id": "demo-pump-action_shotgun",
+    "face": {
+      "front": {
+        "name": "Pump-Action Shotgun",
+        "type": "Gear",
+        "cost": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pump-Action Shotgun",
+    "type": "Gear",
+    "cost": 4,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-primitive_furnace": {
+    "id": "demo-primitive_furnace",
+    "face": {
+      "front": {
+        "name": "Primitive Furnace",
+        "type": "Structure",
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Primitive Furnace",
+    "type": "Structure",
+    "cost": 1,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-cattiva": {
+    "id": "demo-cattiva",
+    "face": {
+      "front": {
+        "name": "Cattiva",
+        "type": "Pal",
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cattiva",
+    "type": "Pal",
+    "cost": 2,
+    "Color": ["White"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-lamball": {
+    "id": "demo-lamball",
+    "face": {
+      "front": {
+        "name": "Lamball",
+        "type": "Pal",
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lamball",
+    "type": "Pal",
+    "cost": 2,
+    "Color": ["White"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-grizzbolt": {
+    "id": "demo-grizzbolt",
+    "face": {
+      "front": {
+        "name": "Grizzbolt",
+        "type": "Pal",
+        "cost": 6,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grizzbolt",
+    "type": "Pal",
+    "cost": 6,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-chikipi": {
+    "id": "demo-chikipi",
+    "face": {
+      "front": {
+        "name": "Chikipi",
+        "type": "Pal",
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chikipi",
+    "type": "Pal",
+    "cost": 2,
+    "Color": ["White"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-foxparks": {
+    "id": "demo-foxparks",
+    "face": {
+      "front": {
+        "name": "Foxparks",
+        "type": "Pal",
+        "cost": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Foxparks",
+    "type": "Pal",
+    "cost": 4,
+    "Color": ["Red"],
+    "Set": ["Demo"],
+    "isToken": false
+  },
+  "demo-soul": {
+    "id": "demo-soul",
+    "face": {
+      "front": {
+        "name": "Soul",
+        "type": "Souls",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Soul",
+    "type": "Souls",
+    "cost": 0,
+    "Color": [],
+    "Set": ["Demo"],
+    "isToken": false
+  }
+}
