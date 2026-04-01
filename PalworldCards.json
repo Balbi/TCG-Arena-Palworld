@@ -115,7 +115,7 @@
         "type": "Structure",
         "cost": 4,
         "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_mounted-machine-gun.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Mounted Machine Gun",
@@ -151,7 +151,7 @@
         "type": "Structure",
         "cost": 1,
         "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_primitive-furnace.png",
-        "isHorizontal": false
+        "isHorizontal": true
       }
     },
     "name": "Primitive Furnace",
