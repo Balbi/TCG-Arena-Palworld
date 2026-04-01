@@ -1,8 +1,10 @@
 {
   "name": "Palworld Official Card Game",
-  "menuBackgroundImage": "",
+  "menuBackgroundImage": "https://balbi.github.io/TCG-Arena-Palworld/images/banner.png",
   "defaultRessources": {
-    "backgrounds": [],
+    "backgrounds": [
+      "https://balbi.github.io/TCG-Arena-Palworld/images/backgrounds/background-1.jpg"
+    ],
     "decksUrl": "https://balbi.github.io/TCG-Arena-Palworld/Decks.json"
   },
   "customHelp": "",
