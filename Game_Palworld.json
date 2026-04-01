@@ -3,7 +3,7 @@
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": ""
+    "decksUrl": "https://balbi.github.io/TCG-Arena-Palworld/Decks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
@@ -27,8 +27,7 @@
       {
         "title": "Classic",
         "gameplay": "Classic",
-        "deckRuleset": "Standard",
-        "legalityCode": "S02"
+        "deckRuleset": "Standard"
       }
     ],
     "deckRulesets": {
