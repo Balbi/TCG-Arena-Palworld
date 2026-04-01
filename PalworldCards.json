@@ -1,22 +1,4 @@
 {
-  "demo-": {
-    "id": "",
-    "face": {
-      "front": {
-        "name": "",
-        "type": "",
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type": "",
-    "cost": 0,
-    "Color": [],
-    "Set": ["Demo"],
-    "isToken": false
-  },
   "demo-relaxaurus": {
     "id": "demo-relaxaurus",
     "face": {
@@ -24,7 +6,7 @@
         "name": "Relaxaurus",
         "type": "Pal",
         "cost": 7,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_relaxaurus.png",
         "isHorizontal": false
       }
     },
@@ -42,7 +24,7 @@
         "name": "Pengullet",
         "type": "Pal",
         "cost": 3,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_pengullet.png",
         "isHorizontal": false
       }
     },
@@ -60,7 +42,7 @@
         "name": "Reckless Charge",
         "type": "Event",
         "cost": 1,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_reckless-charge.png",
         "isHorizontal": false
       }
     },
@@ -78,7 +60,7 @@
         "name": "Jormuntide Ignis",
         "type": "Pal",
         "cost": 8,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_jormuntide-ignis.png",
         "isHorizontal": false
       }
     },
@@ -96,7 +78,7 @@
         "name": "Chillet",
         "type": "Pal",
         "cost": 5,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_chillet.png",
         "isHorizontal": false
       }
     },
@@ -114,7 +96,7 @@
         "name": "Single-Shot Rifle",
         "type": "Gear",
         "cost": 4,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_single-shot-rifle.png",
         "isHorizontal": false
       }
     },
@@ -132,7 +114,7 @@
         "name": "Mounted Machine Gun",
         "type": "Structure",
         "cost": 4,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_mounted-machine-gun.png",
         "isHorizontal": false
       }
     },
@@ -150,7 +132,7 @@
         "name": "Pump-Action Shotgun",
         "type": "Gear",
         "cost": 4,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_pump-action-shotgun.png",
         "isHorizontal": false
       }
     },
@@ -168,7 +150,7 @@
         "name": "Primitive Furnace",
         "type": "Structure",
         "cost": 1,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_primitive-furnace.png",
         "isHorizontal": false
       }
     },
@@ -186,7 +168,7 @@
         "name": "Cattiva",
         "type": "Pal",
         "cost": 2,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_cattiva.png",
         "isHorizontal": false
       }
     },
@@ -204,7 +186,7 @@
         "name": "Lamball",
         "type": "Pal",
         "cost": 2,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_lamball.png",
         "isHorizontal": false
       }
     },
@@ -222,7 +204,7 @@
         "name": "Grizzbolt",
         "type": "Pal",
         "cost": 6,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_grizzbolt.png",
         "isHorizontal": false
       }
     },
@@ -240,7 +222,7 @@
         "name": "Chikipi",
         "type": "Pal",
         "cost": 2,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_chikipi.png",
         "isHorizontal": false
       }
     },
@@ -258,7 +240,7 @@
         "name": "Foxparks",
         "type": "Pal",
         "cost": 4,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_foxparks.png",
         "isHorizontal": false
       }
     },
@@ -276,7 +258,7 @@
         "name": "Soul",
         "type": "Souls",
         "cost": 0,
-        "image": "",
+        "image": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/soul.png",
         "isHorizontal": false
       }
     },

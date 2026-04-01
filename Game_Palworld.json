@@ -8,11 +8,11 @@
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "",
-    "cardBack": "",
+    "dataUrl": "https://balbi.github.io/TCG-Arena-Palworld/PalworldCards.json",
+    "cardBack": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/card_back.png",
     "cardBackColor": "#000000",
     "extraCardBacks": {
-      "Souls": ""
+      "Souls": "https://balbi.github.io/TCG-Arena-Palworld/images/cards/soul_back.png"
     }
   },
   "deckBuilding": {
