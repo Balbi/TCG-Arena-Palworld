@@ -91,6 +91,7 @@
                 {
                   "direction": "row",
                   "style": {
+                    "height": "24.5vh",
                     "margin": "0.25vh"
                   },
                   "content": [
@@ -154,7 +155,7 @@
           "Base": {
             "title": "Base",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
