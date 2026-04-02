@@ -91,7 +91,6 @@
                 {
                   "direction": "row",
                   "style": {
-                    "height": "49.5vh",
                     "margin": "0.25vh"
                   },
                   "content": [
