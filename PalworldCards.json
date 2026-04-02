@@ -175,7 +175,7 @@
     "name": "Cattiva",
     "type": "Pal",
     "cost": 2,
-    "Color": ["White"],
+    "Color": ["Colorless"],
     "Set": ["Demo"],
     "isToken": false
   },
@@ -193,7 +193,7 @@
     "name": "Lamball",
     "type": "Pal",
     "cost": 2,
-    "Color": ["White"],
+    "Color": ["Colorless"],
     "Set": ["Demo"],
     "isToken": false
   },
@@ -229,7 +229,7 @@
     "name": "Chikipi",
     "type": "Pal",
     "cost": 2,
-    "Color": ["White"],
+    "Color": ["Colorless"],
     "Set": ["Demo"],
     "isToken": false
   },

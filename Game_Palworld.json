@@ -1,5 +1,5 @@
 {
-  "name": "Palworld Official Card Game",
+  "name": "Palworld OCG",
   "menuBackgroundImage": "https://balbi.github.io/TCG-Arena-Palworld/images/banner.png",
   "defaultRessources": {
     "backgrounds": [
@@ -7,7 +7,7 @@
     ],
     "decksUrl": "https://balbi.github.io/TCG-Arena-Palworld/PalworldDecks.json"
   },
-  "customHelp": "",
+  "customHelp": "Credit to midknight_gardener on Reddit for the majority of the card photos. This project is not officially supported by the game publisher. It is a fan project created to help players build their decks and playtest them online. If you enjoy it, consider supporting the official game and its community.",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://balbi.github.io/TCG-Arena-Palworld/PalworldCards.json",
