@@ -1,6 +1,7 @@
 # Palworld OCG mod for TCG Arena
 
 > This is an unofficial mod for TCG Arena that allows you to play the Palworld Official Card Game.
+> Special credit to /u/midknight_gardener on Reddit for the image scans
 
 ---
 
