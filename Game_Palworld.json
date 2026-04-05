@@ -56,9 +56,9 @@
   "gameplay": {
     "Classic": {
       "mulligan": {
-        "info": "",
+        "info": "You may draw a new hand of 5 cards once. Your old hand will be put at the bottom of your deck, a new hand will be drawn, and then the deck will be shuffled.",
         "startingHandSize": "5",
-        "drawNewHand": false,
+        "drawNewHand": true,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false
       },
